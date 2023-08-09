@@ -24,7 +24,7 @@ pow(x, y) is x over the power of y
   log(x)
   log10(x)
   abs(x) (absolute value)
-//NOTMATHNOTMATHNOTMATH
+// NOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATH //
 setprecision(x) and fixed are manipulators that we will use to make it look clean
 setw(x) is used to set the width of the output
 

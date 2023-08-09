@@ -1,10 +1,23 @@
 * is multiply
+
 / is divide
   If you divide an interger, the computer will get rid of the decimal without rounding. 
   For example, if you divide 6 / 4 you would only get 1, because the integer must stay as an integer
+
 % is modulus
-  Modulus gives you the remainder of what you divide by
+  modulus gives you the remainder of what you divide by
     For example: if you don't use decimals 5 / 4 gets you 1 with a remainder of 1, 
     5 % 6 would give you only that remainder of 1
     27 % 4 would be 3. 24 is the largest number you can get without going over 27, so you subtract 24 from 27
     Any odd number % 2 will be 1, and any even number % 2 is 0
+
+sqrt(x) is square root
+pow(x, y) is x over the power of y
+//both sqrt and pow, as well as trig functions require you to put #include <cmath> at the top of the program
+sin(x)
+cos(x)
+tan(x)
+log(x)
+log10(x)
+abs(x) (absolute value)
+

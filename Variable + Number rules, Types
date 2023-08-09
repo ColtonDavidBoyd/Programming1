@@ -1,1 +1,4 @@
-variables must start
+Adding or subtracting 1 from a variable is so common they created special shortcuts for them
+  variable++
+  variable--
+

@@ -24,6 +24,7 @@ pow(x, y) is x over the power of y
   log(x)
   log10(x)
   abs(x) (absolute value)
+++ increases a value by 1
 // NOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATHNOTMATH //
 setprecision(x) and fixed are manipulators that we will use to make it look clean
 setw(x) is used to set the width of the output
